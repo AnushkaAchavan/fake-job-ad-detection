@@ -298,8 +298,9 @@ It should be used as a **support system**, not a final authority.
 
 # 👩‍💻 Author
 
-**Anushka Chavan**
-B.Tech Data Science (3rd Year)
+* Anushka Chavan
+* Divyanshi Sethia
+* Anshupriya Kumar
 
 ---
 
@@ -313,9 +314,3 @@ If you found this project useful:
 
 ---
 
-# 📬 Contact
-
-For queries or collaboration:
-
-* GitHub: your-profile-link
-* Email: [your-email@example.com](mailto:your-email@example.com)
